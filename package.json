@@ -1,6 +1,6 @@
 {
   "name": "jquery-warn-before-unload",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Warns before leaving a modified page.",
   "main": "jquery.warnBeforeUnload.js",
   "scripts": {
