@@ -71,7 +71,6 @@ window.warnBeforeUnload = {
     unlock: function () {
         'use strict';
         $('body').removeClass(this.className);
-        $('body').removeClass('promethee-page-locked');
     }
 
 };
