@@ -1,0 +1,19 @@
+{
+  "name": "jquery-warn-before-unload",
+  "version": "1.0.0",
+  "description": "Warns before leaving a modified page.",
+  "main": "warnBeforeUnload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lespoupeesrusses/jquery-warn-before-unload.git"
+  },
+  "author": "Pierre-André Boissinot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lespoupeesrusses/jquery-warn-before-unload/issues"
+  },
+  "homepage": "https://github.com/lespoupeesrusses/jquery-warn-before-unload#readme"
+}
