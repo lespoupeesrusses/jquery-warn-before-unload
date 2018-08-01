@@ -2,7 +2,7 @@
   "name": "jquery-warn-before-unload",
   "version": "1.0.1",
   "description": "Warns before leaving a modified page.",
-  "main": "warnBeforeUnload.js",
+  "main": "jquery.warnBeforeUnload.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
