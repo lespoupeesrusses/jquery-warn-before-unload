@@ -1,6 +1,6 @@
 {
   "name": "jquery-warn-before-unload",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Warns before leaving a modified page.",
   "main": "jquery.warnBeforeUnload.js",
   "scripts": {
@@ -16,8 +16,8 @@
   },
   "contributors": [
     {
-        "name": "Arnaud Levy",
-        "email": "alevy@lespoupees.paris"
+      "name": "Arnaud Levy",
+      "email": "alevy@lespoupees.paris"
     }
   ],
   "license": "MIT",
