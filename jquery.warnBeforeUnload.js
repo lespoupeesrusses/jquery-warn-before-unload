@@ -41,7 +41,7 @@ window.warnBeforeUnload = {
     watchSubmits: function () {
         'use strict';
         var that = this;
-        $('form').on('submit', function () {
+        $('form:not(.do-not-unlock)').on('submit', function () {
             that.unlock();
         });
     },
